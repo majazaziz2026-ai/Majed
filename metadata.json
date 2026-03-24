@@ -1,0 +1,7 @@
+{
+  "name": "الكاتب الذكي - Smart Writer",
+  "description": "منصة احترافية لتحويل التسجيلات الصوتية الطويلة إلى نصوص أكاديمية منسقة بدقة عالية.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
